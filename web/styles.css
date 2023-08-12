@@ -1,0 +1,8 @@
+.hex {
+    stroke: black;
+    fill: rgb(82, 82, 82);
+}
+
+.hex:hover {
+    fill: rgb(141, 141, 141);
+}
